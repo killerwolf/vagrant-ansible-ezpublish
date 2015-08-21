@@ -21,4 +21,4 @@
   tags: [ezfind, configuration]
 
 - name: Start the upstart service
-  service: name=solr-upstart state=started
+  service: name=solr state=started
